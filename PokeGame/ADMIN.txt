@@ -1,0 +1,11 @@
+ADMIN
+1000699 99 97 97 2
+0
+Supmander Fire 13 13 1 1 2 3 2 2 0 2
+Scratch 3 0 0 0
+Growl 0 1 0 0
+Supodude Ground 10 10 1 10 2 3 5 1 0 4
+Jet-Pierres 2 0 0 0
+Armure 0 0 1 0
+Eboulement 3 0 0 0
+Boul'Armure 0 0 2 0
